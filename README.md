@@ -91,12 +91,8 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
   </a> 
-  <a href="https://openai.com/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/OpenAI_Logo_2025_%28symbol%29.svg" alt="OpenAI" width="35" height="35"/>
-</a>
-<a href="https://gemini.google.com/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Google_Gemini_icon_2025.svg" alt="Gemini" width="35" height="35"/>
-</a>
+  [![Powered by OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
+[![Powered by Gemini](https://img.shields.io/badge/Gemini-244365?style=for-the-badge&logo=google-gemini&logoColor=white)](https://gemini.google.com/)
 </p>
 
 

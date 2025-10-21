@@ -70,18 +70,14 @@
   </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-
-  <a href="https://openai.com/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" 
-       alt="openai" width="40" height="40" 
-       style="background-color:white; padding:5px; border-radius:10px;"/>
+  </a>
+ <a href="https://openai.com/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/OpenAI_Logo.svg" alt="openai" width="40" height="40" style="background-color:#fff; padding:6px; border-radius:10px;"/>
 </a>
 <a href="https://gemini.google.com/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Google_Gemini_logo.svg" 
-       alt="gemini" width="40" height="40" 
-       style="background-color:white; padding:5px; border-radius:10px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Google_Gemini_logo.svg" alt="gemini" width="40" height="40" style="background-color:#fff; padding:6px; border-radius:10px;"/>
 </a>
+
 
   </a> 
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 

@@ -92,8 +92,10 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
   </a> 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/04/OpenAI_Logo.svg" alt="OpenAI Logo" width="40" height="40"/>
+  <p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/OpenAI_Logo.svg" alt="OpenAI Logo" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Google_Gemini_AI_logo.png" alt="Gemini Logo" width="40" height="40"/>
+</p>
  
 </p>
 

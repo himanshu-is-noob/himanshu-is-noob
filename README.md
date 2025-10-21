@@ -91,8 +91,10 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
   </a> 
-  [![Powered by OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
-[![Powered by Gemini](https://img.shields.io/badge/Gemini-244365?style=for-the-badge&logo=google-gemini&logoColor=white)](https://gemini.google.com/)
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/04/OpenAI_Logo.svg" alt="OpenAI Logo" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Google_Gemini_AI_logo.png" alt="Gemini Logo" width="40" height="40"/>
+ 
 </p>
 
 

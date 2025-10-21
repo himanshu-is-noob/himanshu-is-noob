@@ -91,11 +91,11 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
   </a> 
-  <a href="https://openai.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/openai.svg" alt="openai" width="40" height="40" style="background-color:#fff; padding:6px; border-radius:10px;"/>
+   <a href="https://openai.com/" target="_blank">
+    <img src="https://seeklogo.com/images/O/openai-logo-white-3A2F5F5DC9-seeklogo.com.png" alt="openai" width="40" height="40" style="background:white; border-radius:8px; padding:4px;"/>
   </a>
-  <a href="https://gemini.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlegemini.svg" alt="gemini" width="40" height="40" style="background-color:#fff; padding:6px; border-radius:10px;"/>
+  <a href="https://gemini.google.com/" target="_blank">
+    <img src="https://seeklogo.com/images/G/google-gemini-logo-white-4B7869D7E4-seeklogo.com.png" alt="gemini" width="40" height="40" style="background:white; border-radius:8px; padding:4px;"/>
   </a>
 </p>
 

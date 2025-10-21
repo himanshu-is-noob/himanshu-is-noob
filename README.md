@@ -92,10 +92,9 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
   </a> 
 
-  <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/OpenAI_Logo.svg" alt="OpenAI Logo" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Google_Gemini_AI_logo.png" alt="Gemini Logo" width="40" height="40"/>
-</p>
+  <a href="https://openrouter.ai/openai">
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AOpenAI_logo_2025_%2528symbol%2529.svg&psig=AOvVaw3XCuN_Pej49WuuILbQL9ME&ust=1761120816437000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLC9y7fstJADFQAAAAAdAAAAABAE" width="40" height="40" />
+  </a>
  
 </p>
 

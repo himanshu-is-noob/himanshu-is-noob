@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Himanshu Gaikwad</h1>
-<h3 align="center">A passionate MERN Full Stack Developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=himanshu-is-noob&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu-is-noob" /> 
@@ -11,7 +11,8 @@
   </a> 
 </p>
 
-- 🌱 I’m currently learning **NextJS , and preparing for oncampus placements**  
+- 🌱 I’m currently learning **AWS , and preparing for oncampus placements**
+- I like creating Full Stack Projects that solves problems and I like to integrate AI to it by using LLM APIs such as OpenAI , Gemini etc.
 - 👨‍💻 My Portfolio is [https://himanshuportfoliome.netlify.app/](https://himanshuportfoliome.netlify.app/)  
 - 📫 How to reach me **himanshugaikwad2004@gmail.com**
 

@@ -93,7 +93,7 @@
   </a> 
 
   <a href="https://openrouter.ai/openai">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AOpenAI_logo_2025_%2528symbol%2529.svg&psig=AOvVaw3XCuN_Pej49WuuILbQL9ME&ust=1761120816437000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLC9y7fstJADFQAAAAAdAAAAABAE" width="40" height="40" />
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXuDvlNDmDGF5QwPETEs3eh7RHNGmKBpgwyw&s" width="40" height="40" />
   </a>
  
 </p>

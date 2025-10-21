@@ -91,12 +91,12 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
   </a> 
-   <a href="https://openai.com/" target="_blank">
-    <img src="https://seeklogo.com/images/O/openai-logo-white-3A2F5F5DC9-seeklogo.com.png" alt="openai" width="40" height="40" style="background:white; border-radius:8px; padding:4px;"/>
-  </a>
-  <a href="https://gemini.google.com/" target="_blank">
-    <img src="https://seeklogo.com/images/G/google-gemini-logo-white-4B7869D7E4-seeklogo.com.png" alt="gemini" width="40" height="40" style="background:white; border-radius:8px; padding:4px;"/>
-  </a>
+  <a href="https://openai.com/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/OpenAI_Logo.svg" alt="OpenAI" width="40" height="40"/>
+</a>
+<a href="https://gemini.google.com/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Google_Gemini_logo.svg" alt="Google Gemini" width="40" height="40"/>
+</a>
 </p>
 
 

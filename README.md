@@ -13,7 +13,6 @@
 
 - 🌱 I’m currently learning **AWS , and preparing for oncampus placements**
 - I like creating Full Stack Projects that solves problems and I like to integrate AI to it by using LLM APIs such as OpenAI , Gemini etc.
-- 👨‍💻 My Portfolio is [https://himanshuportfoliome.netlify.app/](https://himanshuportfoliome.netlify.app/)  
 - 📫 How to reach me **himanshugaikwad2004@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
